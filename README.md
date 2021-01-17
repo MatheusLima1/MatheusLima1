@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheuslima1" alt="matheuslima1" /></a> </p>
 
-- 🔭 I’m currently working on [Pagbank/Tilix](@pagseguro)
+- 🔭 I’m currently working on [Pagbank / Tilix](@pagseguro)
 
 - 🌱 I’m currently learning **Flutter (Dart).**
 
 - 💬 Ask me about **Android, Architecture components, Software Engineering.**
 
-- 📫 How to reach me **matheusinclima@gmail.com**
+- 📫 How to reach me **matheusinclima@gmail.com** and **https://www.linkedin.com/in/matheus-lima/**
 
 - ⚡ Fun Fact **I like pc games, animes, mangas and I like to draw (but I'm terrible)**
 
