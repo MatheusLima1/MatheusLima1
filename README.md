@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Lima</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h3 align="center">Mobile Android Consultant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuslima1&label=Profile%20views&color=0e75b6&style=flat" alt="matheuslima1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheuslima1" alt="matheuslima1" /></a> </p>
 
-- 🔭 I’m currently working at ACT Digital / In the Project of GloboPlay https://globoplay.globo.com/
+- 🔭 I’m currently working at Avanade
 
 - 🌱 I’m currently learning **Flutter (Dart).**
 
