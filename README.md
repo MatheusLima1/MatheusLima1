@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at Curacubby
 
-- 🌱 I’m currently learning **Flutter (Dart).**
+- 🌱 I’m currently learning **Flutter (Dart)** and **React Native**
 
 - 💬 Ask me about **Android, Architecture components, Software Engineering.**
 
