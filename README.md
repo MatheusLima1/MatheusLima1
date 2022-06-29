@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **matheusinclima@gmail.com** and **https://www.linkedin.com/in/matheus-lima/**
 
-- ⚡ Fun Fact **I like pc games, animes, mangas and I like drawing (but I'm terrible)**
+- ⚡ Fun Fact **I like pc games, animes, mangas and I like playing guitar (but I'm terrible)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
