@@ -11,8 +11,7 @@
 
 - 💬 Ask me about **Android, Architecture components, Software Engineering.**
 
-- 📫 How to reach me **matheusinclima@gmail.com** and **https://www.
-in.com/in/matheus-lima/**
+- 📫 How to reach me **matheusinclima@gmail.com** and **[https://www.in.com/in/matheus-lima/?locale=en_US](https://www.linkedin.com/in/matheus-lima/?locale=en_US)**
 
 - ⚡ Fun Fact **I like pc games, animes, mangas and I like playing guitar (but I'm terrible)**
 
