@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheuslima1" alt="matheuslima1" /></a> </p>
 
-- 🔭 I’m currently working at Curacubby
+- 🔭 I’m currently working at ...
 
 - 🌱 I’m currently learning **Flutter (Dart)** and **iOS**
 
