@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at Royal Caribbean Group by @KForce
 
-- 🌱 I’m currently learning **Flutter (Dart)** and **iOS**
+- 🌱 I’m currently learning **KMP** and **iOS**
 
 - 💬 Ask me about **Android, Architecture components, Software Engineering.**
 
