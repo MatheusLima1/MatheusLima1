@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Android, Architecture components, Software Engineering.**
 
-- 📫 How to reach me **matheus_santos_lima@outlook.com** and **[https://www.in.com/in/matheus-lima/?locale=en_US](https://www.linkedin.com/in/matheus-lima/?locale=en_US)**
+- 📫 How to reach me **matheus-slima@outlook.com.br** and **[https://www.in.com/in/matheus-lima/?locale=en_US](https://www.linkedin.com/in/matheus-lima/?locale=en_US)**
 
 - This is my portfolio: https://bit.ly/matheus-lima-portfolio
 
