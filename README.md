@@ -7,15 +7,11 @@
 
 - 🔭 I’m currently working at Royal Caribbean Group by @KForce
 
-- 🌱 I’m currently learning **KMP** and **iOS**
-
 - 💬 Ask me about **Android, Architecture components, Software Engineering.**
 
-- 📫 How to reach me **matheusinclima@gmail.com** and **[https://www.in.com/in/matheus-lima/?locale=en_US](https://www.linkedin.com/in/matheus-lima/?locale=en_US)**
+- 📫 How to reach me **matheus_santos_lima@outlook.com** and **[https://www.in.com/in/matheus-lima/?locale=en_US](https://www.linkedin.com/in/matheus-lima/?locale=en_US)**
 
 - This is my portfolio: https://bit.ly/matheus-lima-portfolio
-
-- ⚡ Fun Fact **I like pc games, animes, mangas and I like playing guitar (but I'm terrible)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
