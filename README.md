@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **matheus-slima@outlook.com.br** and **[https://www.in.com/in/matheus-lima/?locale=en_US](https://www.linkedin.com/in/matheus-lima/?locale=en_US)**
 
-- This is my portfolio: https://bit.ly/matheus-lima-portfolio
+<!-- This is my portfolio: https://bit.ly/matheus-lima-portfolio-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
