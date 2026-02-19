@@ -1,7 +1,10 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matheuslima1/matheuslima1/main/android_tech_banner.png" width="100%" alt="Matheus Lima Banner">
-</p>
+# Hi there, I'm Matheus Lima 👋
+
+### Senior Android Engineer | MBA in Computer Software Engineering
+**Mobile Developer** (Android, Kotlin, Java, React Native)
+
+---
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -22,35 +25,26 @@
 
 ---
 
-### 🛠️ Technical Skill Matrix
+### 🛠️ Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center"><b>Mobile Stack</b></td>
-    <td width="33%" align="center"><b>Architecture</b></td>
-    <td width="33%" align="center"><b>Tools & DevOps</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
-      <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Clean_Architecture-3DDC84?style=flat-square" />
-      <img src="https://img.shields.io/badge/MVVM_/_MVI-3DDC84?style=flat-square" />
-      <img src="https://img.shields.io/badge/Dagger_/_Koin-3DDC84?style=flat-square" />
-      <img src="https://img.shields.io/badge/SOLID_Principles-3DDC84?style=flat-square" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JUnit_/_Mockito-007396?style=flat-square" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <!-- Android / Mobile -->
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br>
+  <!-- Backend / DB -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+  <!-- DevOps / Tools -->
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
 
 ---
 
