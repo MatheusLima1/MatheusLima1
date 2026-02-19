@@ -1,76 +1,98 @@
 
-# Hi there, I'm Matheus Lima 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matheuslima1/matheuslima1/main/android_tech_banner.png" width="100%" alt="Matheus Lima Banner">
+</p>
 
-### Senior Android Engineer | MBA in Computer Software Engineering
-**Mobile Developer** (Android, Kotlin, Java, Flutter, React Native)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=30&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Senior+Android+Engineer;Software+Engineering+MBA;Native+Android+Specialist;Clean+Architecture+Expert" alt="Typing SVG" />
+  </a>
+</h1>
 
----
+<p align="center">
+  <strong>Senior Android Engineer with 8+ years of experience architecting elite mobile solutions.</strong><br>
+  Specialized in Kotlin, Jetpack Compose, and Scalable Mobile Ecosystems.
+</p>
 
-### 🚀 About Me
-
-I am a **Senior Android Engineer** with **8+ years** of professional experience and a **Postgraduate MBA in Computer Software Engineering**.
-
-<p align="left">
-I specialize in architecting and developing high-impact mobile solutions, focusing on software excellence.
-I am proficient in the entire Android development lifecycle, from architectural design (Clean Architecture, MVVM/MVP) to delivery via robust CI/CD pipelines.
-My core skills include <b>Kotlin, Jetpack Compose, Java, RxJava, and Unit Testing</b>.
+<p align="center">
+  <a href="https://linkedin.com/in/matheus-lima"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:matheus-slima@outlook.com.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://matheuslima1.github.io/"><img src="https://img.shields.io/badge/Portfolio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skill Matrix
 
-<p align="left">
-  <!-- Android / Mobile -->
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <br>
-  <!-- Backend / DB -->
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br>
-  <!-- DevOps / Tools -->
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<table width="100%">
+  <tr>
+    <td width="33%" align="center"><b>Mobile Stack</b></td>
+    <td width="33%" align="center"><b>Architecture</b></td>
+    <td width="33%" align="center"><b>Tools & DevOps</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
+      <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Clean_Architecture-3DDC84?style=flat-square" />
+      <img src="https://img.shields.io/badge/MVVM_/_MVI-3DDC84?style=flat-square" />
+      <img src="https://img.shields.io/badge/Dagger_/_Koin-3DDC84?style=flat-square" />
+      <img src="https://img.shields.io/badge/SOLID_Principles-3DDC84?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JUnit_/_Mockito-007396?style=flat-square" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎓 Professional Mastery
+
+- 📘 **MBA in Software Engineering** | FIAP (2021 - 2022)
+- 🎓 **B.S. in Information Systems** | IFG (2014 - 2019)
+- 📜 **Microsoft Certified: Azure Fundamentals (AZ-900)** 
+- 📜 **Microsoft Certified: Azure Data Fundamentals (DP-900)**
+- 🗣️ **English C1 Advanced** | EF Standard English Test
+
+---
+
+### 💼 Career Highlights
+
+- **Senior Android Engineer** | *DOMVS iT (PagBank PagSeguro)* 
+  - Leading Open Finance initiatives and high-impact credit solutions.
+- **Senior Software Engineer** | *Curacubby*
+  - Spearheaded mobile development workflows and performance optimizations.
+- **Senior Android Engineer** | *Avanade*
+  - Optimized the **SuperDigital** application (10M+ users).
+- **Senior Android Engineer** | *PagSeguro PagBank*
+  - Focal point for code quality and core Design System libraries.
+- **Android Engineer** | *Maxima Tech*
+  - Java to Kotlin migration and geolocation library development.
+
+---
+
+### 📊 Ecosystem & Impact
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuslima1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=94A3B8" alt="GitHub Stats" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslima1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=94A3B8" alt="Top Languages" height="180px">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuslima1&theme=tokyonight&hide_border=true&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84" alt="GitHub Streak" height="180px">
 </p>
 
 ---
 
-### 💼 Professional Experience
-
-| Period | Company | Role |
-|:---:|:---:|:---|
-| **07/2024 - Present** | **DOMVS iT** | **Senior Software Engineering**<br>Working on PagBank Pagseguro project (Open Finance). |
-| **05/2022 - 03/2023** | **Curacubby (Remote)** | **Senior Software Engineer (Mobile)**<br>Led Android & React Native development, CI/CD automation. |
-| **10/2021 - 06/2022** | **Avanade** | **Senior Software Engineer (Android)**<br>Internal interview app & SuperDigital wallet (10M+ downloads). |
-| **04/2020 - 10/2021** | **PagSeguro PagBank** | **Senior Software Engineer (Android)**<br>PagBank app stability, revenue features, Design System. |
-| **05/2017 - 03/2020** | **Maxima Tech** | **Software Engineer (Android)**<br>Geolocation library, Java to Kotlin migration. |
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheuslima1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Matheus Lima's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslima1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/matheus-lima/?locale=en_US" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="matheus-lima" /></a>
-<a href="mailto:matheus-slima@outlook.com.br" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="matheus-slima@outlook.com.br" /></a>
-<a href="https://matheuslima1.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" /></a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=matheuslima1&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+<p align="center">
+  "Building robust mobile experiences, one commit at a time." <br>
+  <b>Let's build something exceptional together.</b>
 </p>
