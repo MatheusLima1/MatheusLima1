@@ -2,7 +2,7 @@
 # Hi there, I'm Matheus Lima 👋
 
 ### Senior Android Engineer | MBA in Computer Software Engineering
-**Mobile Developer** (Android, Kotlin, Java, React Native)
+**Mobile Developer** (Android, Kotlin, Java, iOS, Swift, React Native, JavaScript, TypeScript)
 
 ---
 
